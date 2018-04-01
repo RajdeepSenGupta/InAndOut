@@ -1,0 +1,6 @@
+c:\users\raj\documents\visual studio 2015\Projects\InAndOut\InAndOut\bin\Debug\InAndOut.exe.config
+c:\users\raj\documents\visual studio 2015\Projects\InAndOut\InAndOut\bin\Debug\InAndOut.exe
+c:\users\raj\documents\visual studio 2015\Projects\InAndOut\InAndOut\bin\Debug\InAndOut.pdb
+c:\users\raj\documents\visual studio 2015\Projects\InAndOut\InAndOut\obj\Debug\InAndOut.csprojResolveAssemblyReference.cache
+c:\users\raj\documents\visual studio 2015\Projects\InAndOut\InAndOut\obj\Debug\InAndOut.exe
+c:\users\raj\documents\visual studio 2015\Projects\InAndOut\InAndOut\obj\Debug\InAndOut.pdb
