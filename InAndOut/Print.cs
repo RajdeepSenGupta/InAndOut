@@ -29,11 +29,13 @@ namespace InAndOut
         /// <param name="outs"></param>
         public static void PrintInAndOut(List<InOutModel> inOutModelList)
         {
+            int step = 0;
             Console.Clear();
-            Console.WriteLine("Guess\tIn\tOut");
-            Console.WriteLine("_____\t____\t____");
+            Console.WriteLine("Step\tGuess\tIn\tOut");
+            Console.WriteLine("_____\t____\t____\t____");
             foreach (InOutModel inOutModel in inOutModelList)
             {
+                Console.Write(++step + "\t");
                 Console.Write(inOutModel.GuessedNumber + "\t");
                 Console.Write(inOutModel.Ins + "\t");
                 Console.WriteLine(inOutModel.Outs);
