@@ -21,6 +21,7 @@ namespace InAndOut
 
                 bool isSame = false;
                 int steps = 0;
+				
                 sw.Start();
                 while (!isSame)
                 {
